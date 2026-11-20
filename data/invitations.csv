@@ -1,0 +1,4 @@
+invite_id,household_token,wave,channel,status
+I-1,H-A,W1,phone,answered
+I-2,H-B,W1,sms,no_reply
+I-3,H-C,W1,paper,declined

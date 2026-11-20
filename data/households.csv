@@ -1,0 +1,4 @@
+household_token,block,tenure,age_band,access_need
+H-A,BL-1,owner,older,step_free
+H-B,BL-1,renter,adult,none
+H-C,BL-2,renter,older,step_free
